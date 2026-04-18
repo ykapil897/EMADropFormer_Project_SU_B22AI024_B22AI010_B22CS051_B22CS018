@@ -1,5 +1,7 @@
 <h1>EMADropFormer: Speech Emotion Recognition</h1>
 
+[Project Repository](https://github.com/ykapil897/EMADropFormer_Project_SU_B22AI024_B22AI010_B22CS051_B22CS018)
+
 <h2>Project Overview</h2>
 <p>
 This project implements three Speech Emotion Recognition systems on the RAVDESS dataset:
